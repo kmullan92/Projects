@@ -3,7 +3,7 @@
 <blockquote>
 <p>simple pure css image modal with overlay hover effect</p>
 </blockquote>
-Demo: https://jsfiddle.net/cuqj0x96/11/
+Demo: https://jsfiddle.net/Kmullan92/Lnfx7stw/
 <p></P>
 <pre><span>&lt;!DOCTYPE html&gt;
 &lt;html&gt;
